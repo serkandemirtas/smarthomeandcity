@@ -1,4 +1,8 @@
-# 🏙️ Smart City Management System
+![unnamed](https://github.com/user-attachments/assets/1ada1100-dbec-4de3-9a85-51207311d22b)
+
+# 🏙️ Smart City Man
+
+agement System
 
 Welcome to the **Smart City Management System**!  
 This project is a comprehensive desktop application built with **Python** and **Tkinter**. It demonstrates advanced software engineering practices including Clean Architecture, Object-Oriented Programming (OOP), Design Patterns, and fundamental Cybersecurity mechanisms.
@@ -40,8 +44,7 @@ This project showcases how to build a modular, secure, scalable, and production-
 
 # UML & USECASE
 <img width="1201" height="943" alt="image" src="https://github.com/user-attachments/assets/50f2b5ec-97e4-4318-8a42-afb5184d3642" />
-
-<img width="1204" height="940" alt="image" src="https://github.com/user-attachments/assets/a3b5587b-c4b1-40a0-833f-78bfccfc2e42" />
+<img width="1204" height="940" alt="image" src="https://github.com/user-attachments/assets/cba58c63-e286-41b3-a810-47789233023d" />
 
 # 🚀 Key Features
 
