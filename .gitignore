@@ -1,0 +1,84 @@
+
+
+# Projeye Özel Dosyalar
+.secure_city_logs.dat
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / optimized / Python execution cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment (Sanal Ortam)
+.venv/
+venv/
+ENV/
+
+# Configuration and Secrets (Gizli Bilgiler)
+.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+
+mockup/
+Çalışan uygulama resimleri/
+unnamed.jpg
+
+
+Uml diagram.svg
+Usecasediagram.svg
+
+pseudo_code.txt
