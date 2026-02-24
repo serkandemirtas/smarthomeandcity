@@ -38,6 +38,10 @@ This project showcases how to build a modular, secure, scalable, and production-
 
 <img width="1914" height="992" alt="1Kayıt aşaması" src="https://github.com/user-attachments/assets/317b0308-682a-4c80-9078-08b45e8017d3" />
 
+# UML & USECASE
+<img width="1201" height="943" alt="image" src="https://github.com/user-attachments/assets/50f2b5ec-97e4-4318-8a42-afb5184d3642" />
+
+<img width="1204" height="940" alt="image" src="https://github.com/user-attachments/assets/a3b5587b-c4b1-40a0-833f-78bfccfc2e42" />
 
 # 🚀 Key Features
 
