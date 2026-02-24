@@ -1,8 +1,6 @@
 ![unnamed](https://github.com/user-attachments/assets/1ada1100-dbec-4de3-9a85-51207311d22b)
 
-# 🏙️ Smart City Man
-
-agement System
+# 🏙️ Smart City Management System
 
 Welcome to the **Smart City Management System**!  
 This project is a comprehensive desktop application built with **Python** and **Tkinter**. It demonstrates advanced software engineering practices including Clean Architecture, Object-Oriented Programming (OOP), Design Patterns, and fundamental Cybersecurity mechanisms.
